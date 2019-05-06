@@ -1,0 +1,17 @@
+#cy {
+  width: 500px;
+  height: 500px;
+  background: lightgrey;
+  display: block;
+  margin:auto;
+}
+h1{
+	text-align:center;
+	font-size: 45px;
+}
+#buttons{
+	margin:0 auto;
+	display:flex;
+	justify-content: center;
+	position: relative;
+}
