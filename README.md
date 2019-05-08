@@ -2,7 +2,7 @@
 
 ## Consegna
 Implementare gli algoritmi di `Kruskal` e `Bellman Ford` in Javascript, utilizzando
-la libreria `Cytoscape.js` .
+la libreria `Cytoscape.js` per rappresentarli .
 ## Javascript
 ### Le variabili :
 * `cy` : la varabile viene utilizzata per la creazione del container che conterra' i grafi 
